@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  background: #5a5a5a;
+  padding: 1rem;
+  margin-top: 10px;
+}
+
+.draggable {
+  background: #fff;
+  padding: 1rem;
+  border: 1px solid black;
+  cursor: move;
+}
